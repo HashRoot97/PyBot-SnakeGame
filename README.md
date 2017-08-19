@@ -1,4 +1,5 @@
 # PyBot-SnakeGame
+Snake game written in python using python's library Pygame.
 
 ## Screenshots
 
